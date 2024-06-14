@@ -174,7 +174,7 @@ class _HomePageState extends State<HomePage> {
           duration: const Duration(milliseconds: 1800),
           child: AppButtons.buildMaterialbutton(
               onTap: () {
-                html.window.open("assets/resume.pdf", "text");
+                Utils.launchURL('https://firebasestorage.googleapis.com/v0/b/portfolio-21712.appspot.com/o/Sarath%20Sreedhar%20J-Resume.pdf?alt=media&token=f153dc24-5eb7-48a4-862f-9618f5cd2f9b');
               },
               buttonName: 'Download CV'),
         ),
