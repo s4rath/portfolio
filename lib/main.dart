@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-
-
 import 'screens/main_dashboard.dart';
 
 void main() {

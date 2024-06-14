@@ -28,11 +28,11 @@ class _HomePageState extends State<HomePage> {
     AppAssets.facebook,
   ];
 
-  final socialUrls = <String>[
-    'linkedin.com/in/sarath-sreedhar-j-7710ba248/',
-    'github.com/s4rath',
-    'instagram.com/_sarath_sreedhar/',
-    'facebook.com/sarath.sj.75/',
+   final socialUrls = <String>[
+    'https://linkedin.com/in/sarath-sreedhar-j-7710ba248/',
+    'https://github.com/s4rath',
+    'https://instagram.com/_sarath_sreedhar/',
+    'https://facebook.com/sarath.sj.75/',
   ];
 
   var socialBI;
